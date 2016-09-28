@@ -1,0 +1,25 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "enom",
+    "Strings": [
+        {
+            "slug": "enom_settings",
+            "text": "Enom Settings"
+        },
+        {
+            "slug": "enom_uid",
+            "text": "Enom Reseller\/User ID"
+        },
+        {
+            "slug": "enom_enable_sandbox",
+            "text": "Enable Sandbox Mode"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-enom",
+    "type": "whsuite-addon",
+    "description": "eNom plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}
